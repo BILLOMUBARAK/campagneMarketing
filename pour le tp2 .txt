@@ -1,0 +1,20 @@
+pour le tp2 
+voici les étapes pour la préparation des données que je vais éffectuer: 
+
+tous les unknown et other sont considéré comme nan donc je les supprime.
+je supprime la variable contact car pas tres interessant.
+je supprime les variables  day et month car nous avons deja la variable pdays
+je modifie les variables suivantes en variable qualitative:
+
+age
+duration: a ce niveau je vais essayer de savoir le max pour savoir comment faire partager
+compaign
+pdays
+previous
+
+
+je vais faire la question 2 qui est de faire les algorithmes Apriori et FG-Growth et extraire les règles d'association :
+- Mentionnant le support minimum requis. 
+- Triant le résultat par confiance (tri descendant). 
+- Comparant le temps d’exécution des deux algorithmes. 
+
